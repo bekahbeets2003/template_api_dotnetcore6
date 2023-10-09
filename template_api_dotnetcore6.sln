@@ -5,6 +5,8 @@ VisualStudioVersion = 17.7.34003.232
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "template_api_dotnetcore6", "template_api_dotnetcore6.csproj", "{74E368BA-3B13-474E-9C04-0E4C8E0B72F7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "template_api_dotnetcore6.tests", "..\template_api_dotnetcore6.tests\template_api_dotnetcore6.tests.csproj", "{5B30AC85-990A-472C-A0B0-47B607D02F4F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{74E368BA-3B13-474E-9C04-0E4C8E0B72F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{74E368BA-3B13-474E-9C04-0E4C8E0B72F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{74E368BA-3B13-474E-9C04-0E4C8E0B72F7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5B30AC85-990A-472C-A0B0-47B607D02F4F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B30AC85-990A-472C-A0B0-47B607D02F4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B30AC85-990A-472C-A0B0-47B607D02F4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B30AC85-990A-472C-A0B0-47B607D02F4F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
